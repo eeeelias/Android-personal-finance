@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">P1</string>
+    <string name="title_navigation_overview">Överblick</string>
+    <string name="title_navigation_income">Inkomster</string>
+    <string name="title_navigation_expenditure">Utgifter</string>
+
+    <!--Tillagda strängar-->
+    <string name="hello">Hej och välkommen</string>
+    <string name="title_expenditures">Utgifter</string>
+    <string name="title_incomes">Inkomster</string>
+    <string name="title_result">Översikt</string>
+    <string name="choose_title">Välj titel</string>
+    <string name="choose_amount">Välj belopp</string>
+    <string name="choose_date">Välj datum</string>
+    <string name="choose_category">Välj kategori</string>
+    <string name="insert_expenditure">Lägg till utgift</string>
+    <string name="insert_income">Lägg till inkomst</string>
+    <string name="filter_button">Filtrera</string>
+    <string name="filter_header">Filtrera innehåll på datum:</string>
+    <string name="date_from">Från</string>
+    <string name="date_to">Till</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
